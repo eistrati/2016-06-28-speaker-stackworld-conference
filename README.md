@@ -1,4 +1,4 @@
-# Speaker @ StackWorld Conference 2016
+# Speaker @ StackWorld Conference
 
 ## Kabuki Hotel | June 28th, 2016
 http://www.stackworld.com/conference
